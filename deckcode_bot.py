@@ -8,7 +8,7 @@ from typedDeck import TypedDeck
 from card_ja_jp import Card_ja_jp
 
 # const
-botToken = DISCORD_BOT_TOKEN
+botToken = os.getenv("DISCORD_BOT_TOKEN")
 callCommand = r"/deck "
 deckcode = r"[A-Z0-9]+"
 # imgDir = "img/cards_x25/"
