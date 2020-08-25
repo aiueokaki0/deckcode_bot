@@ -2,7 +2,6 @@ from twisted_fate import Card
 from pathlib import Path
 import glob
 import json
-from utils import read_json_file
 
 dataDir = Path(__file__).parent / "data"
 
