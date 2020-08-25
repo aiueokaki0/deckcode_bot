@@ -1,2 +1,2 @@
 discord.py
-twisted_fate.py
+twisted_fate
