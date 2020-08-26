@@ -172,6 +172,8 @@ class DeckCode:
 				"Please update to the latest version of twisted_fate")
 
 		for i in range(3, 0, -1):
+			# i: card count
+			# numGroupOfs: card count
 			numGroupOfs = VarIntTransformer.popVarInt(byte_list)
 
 			for __ in range(numGroupOfs):
@@ -189,6 +191,8 @@ class DeckCode:
 					card_code = setString + factionString + cardString
 					result[card_code] = i
 
+		# the remainder of the deck code is comprised of entries for cards with counts >= 4
+		# this will only happen in Limited and special game modes.
 		while len(byte_list) > 0:
 			fpc = VarIntTransformer.popVarInt(byte_list)
 			fps = VarIntTransformer.popVarInt(byte_list)
