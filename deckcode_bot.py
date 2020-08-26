@@ -30,7 +30,7 @@ def buildMessage(typedCards):
 	result = ""
 	for card in typedCards:
 		regionEmoji = [v for k, v in emojis.items() if k == card.region][0]
-		line = regionEmoji + "**" + str(card.count) + "** " + card.name + "\n"
+		line = regionEmoji + "**" + str(card.cost) + "** " + card.name + " (**x"+ str(card.count) + "**)\n"
 		result += line
 	result += "------------\n"
 	return result
