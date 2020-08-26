@@ -3,9 +3,8 @@ import re
 import binascii
 import os
 
-from twisted_fate import Deck
+from twisted_fate_jp import Deck
 from typedDeck import TypedDeck
-from card_ja_jp import Card_ja_jp
 
 # const
 botToken = os.getenv("DISCORD_BOT_TOKEN")
@@ -18,8 +17,8 @@ emojis = {"champion": "<:champion:747822030384136343>","follower": "<:follower:7
 # function
 def buildMessage(typedCards):
 	result = ""
-	for card_ja in typedCards:
-		line = "**" + str(card_ja.count) + "** " + card_ja.name + "\n"
+	for card in typedCards:
+		line = "**" + str(card.count) + "** " + card.name + "\n"
 		result += line
 	result += "------------\n"
 	return result
@@ -27,8 +26,8 @@ def buildMessage(typedCards):
 def getTempDeckName(typedDeck):
 	champions = typedDeck.champions
 	result = ""
-	for card_ja in champions:
-		result += card_ja.name
+	for card in champions:
+		result += card.name
 	return result
 
 
@@ -57,7 +56,7 @@ async def on_message(message):
 			if len(command) >= 3:
 				deckName = command[2]
 
-			embed = discord.Embed(title=deckName, color=discord.Colour.green())
+			embed = discord.Embed(title="deckName", color=discord.Colour.green())
 			embed.add_field(name=emojis["champion"] + "チャンピオン",value=buildMessage(deck.champions))
 			embed.add_field(name=emojis["follower"] + "フォロワー",value=buildMessage(deck.followers))
 			embed.add_field(name=emojis["spell"] + "スペル", value=buildMessage(deck.spells))
@@ -79,7 +78,7 @@ client.run(botToken)
 
 
 async def createDeckImg(cards):
-	for card in deck.cards:
+	for card in cards:
 		imgPath = imgDir + card.cardCode + imgSuffix
 		if not os.path.isfile(imgPath):
 			await message.channel.send(content=card.name + " is not found")
