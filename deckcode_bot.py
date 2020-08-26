@@ -15,6 +15,7 @@ deckcode = r"[A-Z0-9]+"
 # imgSuffix = ".png"
 emojis = {"champion": "<:champion:747822030384136343>","follower": "<:follower:747822044216950784>", "spell": "<:spell:747822058225795104>"}
 
+# function
 def buildMessage(typedCards):
 	result = ""
 	for card_ja in typedCards:
@@ -23,7 +24,8 @@ def buildMessage(typedCards):
 	result += "------------\n"
 	return result
 
-def getTempDeckName(champions):
+def getTempDeckName(typedDeck):
+	champions = typedDeck.champions
 	result = ""
 	for card_ja in champions:
 		result += card_ja.name
@@ -51,7 +53,7 @@ async def on_message(message):
 		
 		try:
 			deck = TypedDeck(deckCode)
-			deckName = getTempDeckName(deck.champions)
+			deckName = getTempDeckName(deck)
 			if len(command) >= 3:
 				deckName = command[2]
 
@@ -61,13 +63,14 @@ async def on_message(message):
 			embed.add_field(name=emojis["spell"] + "スペル", value=buildMessage(deck.spells))
 			
 			await message.channel.send(embed=embed)
+			print("[Info] " + deckCode)
 
 		except binascii.Error as e:
-			print(e)
+			print("[Error] " + e)
 			embed = discord.Embed(title="Error", description="Wrong deckcode", color=discord.Colour.red())
 			await message.channel.send(embed=embed)
 		except Exception as e:
-			print(e)
+			print("[Error] " + e)
 			embed = discord.Embed(title="Error", description="Something wrong", color=discord.Colour.red())
 			await message.channel.send(embed=embed)
 
