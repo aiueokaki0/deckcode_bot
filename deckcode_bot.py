@@ -38,7 +38,7 @@ client = discord.Client()
 # 起動時に動作する処理
 @client.event
 async def on_ready():
-	print('start deckcode bot')
+	print('[Info] start deckcode bot')
 
 # メッセージ受信時に動作する処理
 @client.event
@@ -66,11 +66,11 @@ async def on_message(message):
 			print("[Info] " + deckCode)
 
 		except binascii.Error as e:
-			print("[Error] " + e)
+			print("[Error] " + str(e))
 			embed = discord.Embed(title="Error", description="Wrong deckcode", color=discord.Colour.red())
 			await message.channel.send(embed=embed)
 		except Exception as e:
-			print("[Error] " + e)
+			print("[Error] " + str(e))
 			embed = discord.Embed(title="Error", description="Something wrong", color=discord.Colour.red())
 			await message.channel.send(embed=embed)
 
