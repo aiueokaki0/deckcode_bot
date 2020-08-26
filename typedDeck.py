@@ -8,6 +8,7 @@ class TypedDeck:
 		self.spells = list(filter(lambda card: card.cardType == "スペル", self.cards))
 		self.champions = list(filter(lambda card: card.superType == "チャンピオン", self.units))
 		self.followers = list(filter(lambda card: card.superType == "", self.units))
+		self.regions = set([card.region for card in self.cards])
 
 	def _sortCards(self, cards):
 		return sorted(cards, key=lambda card: card.cost)
