@@ -56,7 +56,7 @@ async def on_message(message):
 			if len(command) >= 3:
 				deckName = command[2]
 
-			embed = discord.Embed(title="deckName", color=discord.Colour.green())
+			embed = discord.Embed(title=deckName, color=discord.Colour.green())
 			embed.add_field(name=emojis["champion"] + "チャンピオン",value=buildMessage(deck.champions))
 			embed.add_field(name=emojis["follower"] + "フォロワー",value=buildMessage(deck.followers))
 			embed.add_field(name=emojis["spell"] + "スペル", value=buildMessage(deck.spells))
