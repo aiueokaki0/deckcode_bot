@@ -70,7 +70,7 @@ async def on_message(message):
 			embed.add_field(name=emojis["spell"] + "スペル", value=buildMessage(deck.spells))
 			
 			await message.channel.send(embed=embed)
-			print("[Info] " + deckCode)
+			print("[Info] " + deckCode + " " + deckName)
 
 		except binascii.Error as e:
 			print("[Error] " + str(e))
