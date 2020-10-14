@@ -66,8 +66,12 @@ async def on_message(message):
 				deckName = command[2]
 
 			embed = discord.Embed(title=deckName, description=" ".join(regionsEmoji), color=discord.Colour.green())
-			embed.add_field(name=emojis["champion"] + "チャンピオン",value=buildMessage(deck.champions))
-			embed.add_field(name=emojis["landmark"] + "ランドマーク",value=buildMessage(deck.landmarks),inline=False)
+			championMessage = buildMessage(deck.champions)
+			if len(deck.landmarks) > 0:
+				landmarkMessage = emojis["landmark"] + "**ランドマーク**\n" + buildMessage(deck.landmarks)
+				championMessage += landmarkMessage
+			
+			embed.add_field(name=emojis["champion"] + "チャンピオン",value=championMessage)
 			embed.add_field(name=emojis["follower"] + "フォロワー",value=buildMessage(deck.followers))
 			embed.add_field(name=emojis["spell"] + "スペル", value=buildMessage(deck.spells))
 			
