@@ -14,6 +14,7 @@ emojis = {
 	"champion": "<:champion:747822030384136343>",
 	"follower": "<:follower:747822044216950784>",
 	"spell": "<:spell:747822058225795104>",
+	"landmark": "<:landmark:765914225842454539>",
 	"all": "<:all:748188732548579338>",
 	"bilgewater": "<:bilgewater:748188752806936646>",
 	"demacia": "<:demacia:748188764001665177>",
@@ -22,7 +23,7 @@ emojis = {
 	"noxus": "<:noxus:748188803201761410>",
 	"piltoverzaun": "<:piltoverzaun:748188812802523170>",
 	"shadowisles": "<:shadowisles:748188823426564147>",
-	"targon": "<:targon:748194664791801858>"
+	"targon": "<:targon:765899819096604673>"
 	}
 
 # function
@@ -66,6 +67,7 @@ async def on_message(message):
 
 			embed = discord.Embed(title=deckName, description=" ".join(regionsEmoji), color=discord.Colour.green())
 			embed.add_field(name=emojis["champion"] + "チャンピオン",value=buildMessage(deck.champions))
+			embed.add_field(name=emojis["landmark"] + "ランドマーク",value=buildMessage(deck.landmarks),inline=False)
 			embed.add_field(name=emojis["follower"] + "フォロワー",value=buildMessage(deck.followers))
 			embed.add_field(name=emojis["spell"] + "スペル", value=buildMessage(deck.spells))
 			
