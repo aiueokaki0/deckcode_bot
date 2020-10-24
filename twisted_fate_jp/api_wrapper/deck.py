@@ -76,6 +76,21 @@ class Deck:
 			return deck
 		return json.dumps(deck)
 
+	# for diff command
+	def subtractCard(self, card: Card):
+		applicableCard = list(
+			filter(lambda x: x.cardCode == card.cardCode, self.cards))
+		if applicableCard:
+			applicableCard = applicableCard[0]
+			applicableCard.count -= card.count
+			if applicableCard.count == 0:
+				self.cards.remove(applicableCard)
+				self._cards.pop(applicableCard.cardCode)
+		else:
+			card.count = -1 * card.count
+			self.cards.append(card)
+			self._cards.setdefault(card.cardCode, card.count)
+
 	def add_card(self, card: Card):
 		applicableCard = list(
 			filter(lambda x: x.cardCode == card.cardCode, self.cards))
@@ -84,7 +99,7 @@ class Deck:
 			applicableCard.count += 1
 		else:
 			self.cards.append(card)
-			self._cards.append(card.cardCode)
+			self._cards.setdefault(card.cardCode, card.count)
 
 	def remove_card(self, card: Card):
 		applicableCard = filter(lambda x: x.cardCode == card.cardCode,
@@ -94,7 +109,7 @@ class Deck:
 			applicableCard.count -= 1
 			if applicableCard.count == 0:
 				self.cards.remove(applicableCard)
-				self._cards.remove(applicableCard.cardCode)
+				self._cards.pop(applicableCard.cardCode)
 
 	def __str__(self):
 		response = ["Decklist:", "--------------"]
