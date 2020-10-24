@@ -71,7 +71,7 @@ client = discord.Client()
 # 起動時に動作する処理
 @client.event
 async def on_ready():
-	print('[Info] start deckcode bot')
+	print('[Info][System] start deckcode bot')
 
 # メッセージ受信時に動作する処理
 @client.event
@@ -110,7 +110,7 @@ async def on_message(message):
 				embed.add_field(name=emojis["spell"] + "スペル", value=buildMessage(deck.spells))
 				
 				await message.channel.send(embed=embed)
-				print("[Info] " + deckCode + " " + deckName)
+				print("[Info][decode] " + deckCode + " " + deckName)
 
 			except binascii.Error as e:
 				print("[Error][decode] " + str(e))
@@ -158,10 +158,10 @@ async def on_message(message):
 				print("[Error][diff] " + str(e))
 				embed = discord.Embed(title="Error", description="Wrong deckcode", color=discord.Colour.red())
 				await message.channel.send(embed=embed)
-			# except Exception as e:
-			# 	print("[Error][diff] " + str(e))
-			# 	embed = discord.Embed(title="Error", description="Something wrong", color=discord.Colour.red())
-			# 	await message.channel.send(embed=embed)
+			except Exception as e:
+			 	print("[Error][diff] " + str(e))
+			 	embed = discord.Embed(title="Error", description="Something wrong", color=discord.Colour.red())
+			 	await message.channel.send(embed=embed)
 
 
 # Botの起動とDiscordサーバーへの接続
