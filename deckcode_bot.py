@@ -131,8 +131,8 @@ async def on_message(message):
 			deckCodes = commandLine[1:3]
 			try:
 				decks = [TypedDeck(code) for code in deckCodes]
-				deckName = "diff: " + "".join([c.name for c in sorted(list(set(decks[0].champions + decks[1].champions)), key=lambda card: card.cost)])
-				
+				# 両デッキのチャンピオン名の重複をなくしてコストでソート
+				deckName = "diff: " + "".join([c[0] for c in sorted(list(set([(c.name, c.cost) for c in decks[0].champions + decks[1].champions])), key=lambda card:card[1])])
 				if len(commandLine) >= 4:
 					deckName = commandLine[3]
 				
