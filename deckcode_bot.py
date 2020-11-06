@@ -141,7 +141,7 @@ async def on_message(message):
 				diffDeck = decks[1]
 
 				regionsEmoji = [v for k, v in emojis.items() for region in diffDeck.regions if k == region]
-				embed = discord.Embed(title=deckName, description="\n".join(deckCodes) + "\n" +" ".join(regionsEmoji), color=discord.Colour.blue())
+				embed = discord.Embed(title=deckName, description=" ".join(regionsEmoji), color=discord.Colour.blue())
 				championMessage = buildDiffMessage(diffDeck.champions)
 				if len(diffDeck.landmarks) > 0:
 					landmarkMessage = emojis["landmark"] + "**ランドマーク**\n" + buildDiffMessage(diffDeck.landmarks)
