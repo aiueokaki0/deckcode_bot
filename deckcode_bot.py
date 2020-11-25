@@ -58,6 +58,13 @@ def buildDiffMessage(typedCards):
 	result += "------------\n"
 	return result
 
+def buildCountsMessage(typedDeck):
+	result = (emojis["champion"] + "x" + str(typedDeck.counts[0]) + " "
+				+ emojis["follower"] + "x" + str(typedDeck.counts[1]) + " "
+				+ emojis["spell"] + "x" + str(typedDeck.counts[2]) + " "
+				+ emojis["landmark"] + "x" + str(typedDeck.counts[3]))
+	return result
+
 def getTempDeckName(typedDeck):
 	return "".join([card.name for card in typedDeck.champions])
 
@@ -99,7 +106,8 @@ async def on_message(message):
 				if len(commandLine) >= 3:
 					deckName = commandLine[2]
 
-				embed = discord.Embed(title=deckName, description=" ".join(regionsEmoji), color=discord.Colour.green())
+				deckDescription = " ".join(regionsEmoji) + " | " + buildCountsMessage(deck)
+				embed = discord.Embed(title=deckName, description=deckDescription, color=discord.Colour.green())
 				championMessage = buildMessage(deck.champions)
 				if len(deck.landmarks) > 0:
 					landmarkMessage = emojis["landmark"] + "**ランドマーク**\n" + buildMessage(deck.landmarks)

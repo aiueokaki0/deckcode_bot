@@ -15,6 +15,7 @@ class TypedDeck:
 		self.champions = list(filter(lambda card: card.superType == "チャンピオン", self.units))
 		self.followers = list(filter(lambda card: card.superType == "", self.units))
 		self.regions = set([card.region for card in self.cards])
+		self.counts = [sum([c.count for c in self.champions]), sum([c.count for c in self.followers]), sum([c.count for c in self.spells]), sum([c.count for c in self.landmarks])]
 
 	def _sortCards(self, cards):
 		return sorted(cards, key=lambda card: card.cost)
