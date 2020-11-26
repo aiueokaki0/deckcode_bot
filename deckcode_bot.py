@@ -139,6 +139,7 @@ async def on_message(message):
 			deckCodes = commandLine[1:3]
 			try:
 				decks = [TypedDeck(code) for code in deckCodes]
+				countsMessages = [buildCountsMessage(d) for d in decks]
 				# 両デッキのチャンピオン名の重複をなくしてコストでソート
 				deckName = "diff: " + "".join([c[0] for c in sorted(list(set([(c.name, c.cost) for c in decks[0].champions + decks[1].champions])), key=lambda card:card[1])])
 				if len(commandLine) >= 4:
@@ -149,7 +150,8 @@ async def on_message(message):
 				diffDeck = decks[1]
 
 				regionsEmoji = [v for k, v in emojis.items() for region in diffDeck.regions if k == region]
-				embed = discord.Embed(title=deckName, description=" ".join(regionsEmoji), color=discord.Colour.blue())
+				deckDescription = " ".join(regionsEmoji) + " | " + countsMessages[0] + " -> " + countsMessages[1]
+				embed = discord.Embed(title=deckName, description=deckDescription, color=discord.Colour.blue())
 				championMessage = buildDiffMessage(diffDeck.champions)
 				if len(diffDeck.landmarks) > 0:
 					landmarkMessage = emojis["landmark"] + "**ランドマーク**\n" + buildDiffMessage(diffDeck.landmarks)
