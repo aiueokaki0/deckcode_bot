@@ -22,7 +22,7 @@ emojis = {
 	"champion": "<:champion:747822030384136343>",
 	"follower": "<:follower:747822044216950784>",
 	"spell": "<:spell:747822058225795104>",
-	"landmark": "<:landmark:765914225842454539>",
+	"landmark": "<:landmark:782176960808878100>",
 	"all": "<:all:748188732548579338>",
 	"bilgewater": "<:bilgewater:748188752806936646>",
 	"demacia": "<:demacia:748188764001665177>",
