@@ -4,8 +4,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ001-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -43,8 +43,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ010-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -78,8 +78,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ006-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -117,8 +117,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ004-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -156,8 +156,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ007-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -191,8 +191,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ002-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -229,8 +229,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ008-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -238,7 +238,7 @@
     "attack": 2,
     "cost": 5,
     "health": 4,
-    "description": "このユニットが場にいるか手札の中にある場合にあなたが他のカードをプレイする時、このユニットに+1|+0を付与する。<style=Parentheses>(最大+8|+0)</style><style=Variable></style>",
+    "description": "このユニットが場にいるか手札の中にある場合にあなたが他のカードをプレイする時、このユニットに+1|+0を付与する。(最大+8|+0)<style=Variable></style>",
     "descriptionRaw": "このユニットが場にいるか手札の中にある場合にあなたが他のカードをプレイする時、このユニットに+1|+0を付与する。(最大+8|+0)",
     "levelupDescription": "このユニットが10ダメージ以上の<link=vocab.Strike><style=Vocab>ストライク</style></link>をした時。",
     "levelupDescriptionRaw": "このユニットが10ダメージ以上のストライクをした時。",
@@ -270,8 +270,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ009-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -309,8 +309,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ003-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -351,8 +351,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ008T2-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -395,8 +395,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ008T1-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -404,13 +404,13 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "このラウンド中、味方1体に+2|+0を付与する。\r\n手札に<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を持つ<br><link=card.selfRef><style=AssociatedCard>真っすぐいってぶっとばす</style></link>を1枚生成する。\r\nデッキに<link=card.level1><style=AssociatedCard>ヴァイ</style></link>を1枚混ぜる。",
-    "descriptionRaw": "このラウンド中、味方1体に+2|+0を付与する。\r\n手札にフリーティングを持つ真っすぐいってぶっとばすを1枚生成する。\r\nデッキにヴァイを1枚混ぜる。",
+    "description": "このラウンド中、味方1体に+2|+0を付与する。\r\n<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を持つ<link=card.selfRef><style=AssociatedCard>真っすぐいってぶっとばす</style></link>を手札に1枚生成する。\r\nデッキに<link=card.level1><style=AssociatedCard>ヴァイ</style></link>を1枚生成する。",
+    "descriptionRaw": "このラウンド中、味方1体に+2|+0を付与する。\r\nフリーティングを持つ真っすぐいってぶっとばすを手札に1枚生成する。\r\nデッキにヴァイを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「文句があるならこの拳に言いな」\r\n- ヴァイ",
     "artistName": "Kudos Productions",
-    "name": "ヴァイの<br>「真っすぐいってぶっとばす」",
+    "name": "ヴァイの<nobr>「真っすぐいってぶっとばす」</nobr>",
     "cardCode": "02PZ008T1",
     "keywords": [
       "バースト"
@@ -434,8 +434,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02PZ005-full.png"
       }
     ],
     "region": "ピルトーヴァー<nobr> & ゾウン</nobr>",
@@ -469,8 +469,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW040-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -508,8 +508,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW057-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -549,8 +549,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW041-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -590,8 +590,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW013-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -633,8 +633,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW034.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW034-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW034-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -672,8 +672,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW034T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW034T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW034T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW034T1-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -715,8 +715,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW056.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW056-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW056-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -756,8 +756,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW056T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW056T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW056T1-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -797,8 +797,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW060.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW060-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW060-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -834,8 +834,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW011-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -874,8 +874,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW030-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -883,8 +883,8 @@
     "attack": 7,
     "cost": 7,
     "health": 5,
-    "description": "このユニットの召喚時<br>カードを2枚<link=vocab.Toss><style=Vocab>トス</style></link>して、デッキに<br>「トレジャー」を2枚混ぜる。\r\n<style=Variable></style>",
-    "descriptionRaw": "このユニットの召喚時カードを2枚トスして、デッキに「トレジャー」を2枚混ぜる。\r\n",
+    "description": "このユニットの召喚時、カードを2枚<link=vocab.Toss><style=Vocab>トス</style></link>してデッキに「トレジャー」を2枚生成する。\r\n<style=Variable></style>",
+    "descriptionRaw": "このユニットの召喚時、カードを2枚トスしてデッキに「トレジャー」を2枚生成する。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「最近じゃ波の上より下のほうがいいお宝にありつける。獲物さえ選び間違えなけりゃあな」\r\n- ジャギドの解体屋",
@@ -915,8 +915,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW030T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW030T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW030T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW030T2-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -956,8 +956,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW030T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW030T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW030T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW030T1-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -997,8 +997,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW030T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW030T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW030T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW030T4-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1042,8 +1042,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW030T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW030T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW030T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW030T3-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1083,8 +1083,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW019-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1124,8 +1124,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW007-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1159,8 +1159,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW014-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1198,8 +1198,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW055-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1233,8 +1233,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW017-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1268,8 +1268,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW038-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1309,8 +1309,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW021-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1348,8 +1348,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW035-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1383,8 +1383,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW058-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1420,17 +1420,17 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW028-full.png"
       }
     ],
     "region": "ビルジウォーター",
     "regionRef": "Bilgewater",
-    "attack": 7,
+    "attack": 6,
     "cost": 8,
     "health": 4,
-    "description": "<link=vocab.Plunder><style=Vocab>追撃</style></link>: ランダムな敵に<link=card.cast><style=AssociatedCard>一斉砲撃</style></link>を7回詠唱する。",
-    "descriptionRaw": "追撃: ランダムな敵に一斉砲撃を7回詠唱する。",
+    "description": "<link=vocab.Plunder><style=Vocab>追撃</style></link>: ランダムな敵に<link=card.cast><style=AssociatedCard>一斉砲撃</style></link>を6回詠唱する。",
+    "descriptionRaw": "追撃: ランダムな敵に一斉砲撃を6回詠唱する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「船乗りと船の骸を越えて往け\r\n争いはもうこりごりだ\r\n霧晴れて船長はサメとご対面\r\nあわれもろとも粉々だ」\r\n- 『サリーの待つ家へ』",
@@ -1455,8 +1455,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW028T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW028T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW028T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW028T1-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1494,8 +1494,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW037-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1503,7 +1503,7 @@
     "attack": 3,
     "cost": 5,
     "health": 3,
-    "description": "<link=vocab.Nexus Strike><style=Vocab>ネクサスストライク</style></link>: カードを1枚引く。\r\n<style=Variable></style>",
+    "description": "<link=vocab.NexusStrike><style=Vocab>ネクサスストライク</style></link>: カードを1枚引く。\r\n<style=Variable></style>",
     "descriptionRaw": "ネクサスストライク: カードを1枚引く。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -1539,8 +1539,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW008-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1576,8 +1576,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW008T02.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW008T02-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW008T02.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW008T02-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1613,8 +1613,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW008T01.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW008T01-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW008T01.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW008T01-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1648,8 +1648,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW047-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1685,8 +1685,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW004-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1722,8 +1722,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW002-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1761,8 +1761,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW016-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1798,8 +1798,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW027-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1833,8 +1833,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW050-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1874,8 +1874,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW015-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1913,8 +1913,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW010-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1950,8 +1950,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW009-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -1985,8 +1985,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW005-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2020,8 +2020,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW039-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2059,8 +2059,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW006-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2094,8 +2094,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW036-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2135,8 +2135,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW033-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW033-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2170,8 +2170,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW060T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW060T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW060T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW060T1-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2214,8 +2214,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW032-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2256,8 +2256,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW032T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW032T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW032T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW032T2-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2265,8 +2265,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "指定した対象に1ダメージを与える。\r\nこれにより対象が力尽きた場合<br>敵のネクサスに1ダメージを与える。\r\nデッキに<link=card.level1><style=AssociatedCard>ガングプランク</style></link>を1枚混ぜる。",
-    "descriptionRaw": "指定した対象に1ダメージを与える。\r\nこれにより対象が力尽きた場合敵のネクサスに1ダメージを与える。\r\nデッキにガングプランクを1枚混ぜる。",
+    "description": "指定した対象に1ダメージを与える。\r\nこれにより対象が力尽きた場合、敵のネクサスに1ダメージを与える。\r\nデッキに<link=card.level1><style=AssociatedCard>ガングプランク</style></link>を1枚生成する。",
+    "descriptionRaw": "指定した対象に1ダメージを与える。\r\nこれにより対象が力尽きた場合、敵のネクサスに1ダメージを与える。\r\nデッキにガングプランクを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "ガングプランクの瞑想は短く、そして血生臭い。",
@@ -2300,8 +2300,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW032T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW032T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW032T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW032T3-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2339,8 +2339,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW032T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW032T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW032T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW032T1-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2382,8 +2382,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW032T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW032T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW032T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW032T4-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2426,8 +2426,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW022.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW022-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW022-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2464,8 +2464,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW022T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW022T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW022T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW022T3-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2473,13 +2473,13 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "敵および敵のネクサスを対象として、異なるランダムな対象に1ダメージを3回与える。\r\nデッキに<link=card.level1><style=AssociatedCard>ミス・フォーチュン</style></link>を1枚混ぜる。",
-    "descriptionRaw": "敵および敵のネクサスを対象として、異なるランダムな対象に1ダメージを3回与える。\r\nデッキにミス・フォーチュンを1枚混ぜる。",
+    "description": "敵および敵のネクサスを対象として、異なるランダムな対象に1ダメージを3回与える。\r\nデッキに<link=card.level1><style=AssociatedCard>ミス・フォーチュン</style></link>を1枚生成する。",
+    "descriptionRaw": "敵および敵のネクサスを対象として、異なるランダムな対象に1ダメージを3回与える。\r\nデッキにミス・フォーチュンを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「あたしの銃が黙っちゃいないよ！」\r\n- ミス・フォーチュン",
     "artistName": "Kudos Productions",
-    "name": "ミス・フォーチュンの<br>「レイニングバレット」",
+    "name": "ミス・フォーチュンの<nobr>「レイニングバレット」</nobr>",
     "cardCode": "02BW022T3",
     "keywords": [
       "ファスト"
@@ -2507,8 +2507,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW022T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW022T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW022T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW022T2-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2546,8 +2546,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW022T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW022T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW022T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW022T4-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2585,8 +2585,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW022T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW022T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW022T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW022T1-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2629,8 +2629,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW046-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2673,8 +2673,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW046T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW046T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW046T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW046T3-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2682,7 +2682,7 @@
     "attack": 3,
     "cost": 1,
     "health": 2,
-    "description": "あなたがスペルを詠唱する時、このユニットを対象にしている敵のスペルとスキルをすべて阻止し、このユニットにこのラウンド中<link=keyword.Elusive><sprite name=Elusive><style=Keyword>イルーシブ</style></link>を付与する。\r\n<link=vocab.Nexus Strike><style=Vocab>ネクサスストライク</style></link>: 手札に<link=card.create><style=AssociatedCard>フィッシング</style></link>を1枚生成する。",
+    "description": "あなたがスペルを詠唱する時、このユニットを対象にしている敵のスペルとスキルをすべて阻止し、このユニットにこのラウンド中<link=keyword.Elusive><sprite name=Elusive><style=Keyword>イルーシブ</style></link>を付与する。\r\n<link=vocab.NexusStrike><style=Vocab>ネクサスストライク</style></link>: 手札に<link=card.create><style=AssociatedCard>フィッシング</style></link>を1枚生成する。",
     "descriptionRaw": "あなたがスペルを詠唱する時、このユニットを対象にしている敵のスペルとスキルをすべて阻止し、このユニットにこのラウンド中イルーシブを付与する。\r\nネクサスストライク: 手札にフィッシングを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -2712,8 +2712,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW046T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW046T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW046T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW046T2-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2754,8 +2754,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW046T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW046T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW046T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW046T1-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2763,8 +2763,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "アタック中の味方1体を<br>戦闘から取り除き、<link=vocab.Rally><style=Vocab>奮起</style></link>する。\r\nデッキに<link=card.level1><style=AssociatedCard>フィズ</style></link>を1枚混ぜる。",
-    "descriptionRaw": "アタック中の味方1体を戦闘から取り除き、奮起する。\r\nデッキにフィズを1枚混ぜる。",
+    "description": "アタック中の味方1体を戦闘から取り除き、<link=vocab.Rally><style=Vocab>奮起</style></link>する。\r\nデッキに<link=card.level1><style=AssociatedCard>フィズ</style></link>を1枚生成する。",
+    "descriptionRaw": "アタック中の味方1体を戦闘から取り除き、奮起する。\r\nデッキにフィズを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「楽しくなってきたぜ！」\r\n- フィズ",
@@ -2799,8 +2799,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2838,8 +2838,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026T5-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2883,8 +2883,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026T3-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2925,8 +2925,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026T1-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -2934,8 +2934,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "手札からデッキにカードを1枚混ぜ、次の<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>にカードを3枚引く。その3枚に<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を付与する。\r\nデッキに<link=card.level1><style=AssociatedCard>ツイステッド・フェイト</style></link>を1枚混ぜる。",
-    "descriptionRaw": "手札からデッキにカードを1枚混ぜ、次のラウンド開始時にカードを3枚引く。その3枚にフリーティングを付与する。\r\nデッキにツイステッド・フェイトを1枚混ぜる。",
+    "description": "手札からデッキにカードを1枚戻し、次の<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>にカードを3枚引く。その3枚に<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を付与する。\r\nデッキに<link=card.level1><style=AssociatedCard>ツイステッド・フェイト</style></link>を1枚生成する。",
+    "descriptionRaw": "手札からデッキにカードを1枚戻し、次のラウンド開始時にカードを3枚引く。その3枚にフリーティングを付与する。\r\nデッキにツイステッド・フェイトを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「ツキは自分で作るもんさ」\r\n- ツイステッド・フェイト",
@@ -2964,8 +2964,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026T2-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3003,8 +3003,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW026T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW026T4-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3045,8 +3045,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW053.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW053-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW053-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3089,8 +3089,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW053T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW053T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW053T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW053T2-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3098,8 +3098,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "敵1体を<link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>させる。\r\n場に味方の<link=card.champCheck><style=AssociatedCard>ノーチラス</style></link>がいる場合、その敵を相手のデッキに混ぜる。\r\nあなたのデッキに<link=card.level1><style=AssociatedCard>ノーチラス</style></link>を1枚混ぜる。",
-    "descriptionRaw": "敵1体をスタンさせる。\r\n場に味方のノーチラスがいる場合、その敵を相手のデッキに混ぜる。\r\nあなたのデッキにノーチラスを1枚混ぜる。",
+    "description": "敵1体を<link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>させる。\r\n場に味方の<link=card.champCheck><style=AssociatedCard>ノーチラス</style></link>がいる場合、その敵を相手のデッキに戻す。\r\nデッキに<link=card.level1><style=AssociatedCard>ノーチラス</style></link>を1枚生成する。",
+    "descriptionRaw": "敵1体をスタンさせる。\r\n場に味方のノーチラスがいる場合、その敵を相手のデッキに戻す。\r\nデッキにノーチラスを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「深みに引きずり込んでやる」\r\n- ノーチラス",
@@ -3131,8 +3131,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW053T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW053T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW053T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW053T1-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3172,8 +3172,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW061.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW061-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW061.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW061-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3211,8 +3211,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW024-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3250,8 +3250,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW003-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3291,8 +3291,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW025-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3332,8 +3332,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW012-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3371,8 +3371,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW018-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3410,8 +3410,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW048-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3449,8 +3449,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW043-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW043-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3458,8 +3458,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "手札からデッキにカードを1枚混ぜ、次の<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>にカードを3枚引く。その3枚に<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を付与する。",
-    "descriptionRaw": "手札からデッキにカードを1枚混ぜ、次のラウンド開始時にカードを3枚引く。その3枚にフリーティングを付与する。",
+    "description": "手札からデッキにカードを1枚戻し、次の<link=vocab.RoundStart><style=Vocab>ラウンド開始時</style></link>にカードを3枚引く。その3枚に<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を付与する。",
+    "descriptionRaw": "手札からデッキにカードを1枚戻し、次のラウンド開始時にカードを3枚引く。その3枚にフリーティングを付与する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「ツキは自分で作るもんさ」\r\n- ツイステッド・フェイト",
@@ -3488,8 +3488,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW051-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3529,8 +3529,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW054.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW054-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW054-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3538,8 +3538,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "敵1体を<link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>させる。\r\n場に味方の<link=card.champCheck><style=AssociatedCard>ノーチラス</style></link>がいる場合、その敵を相手のデッキに混ぜる。",
-    "descriptionRaw": "敵1体をスタンさせる。\r\n場に味方のノーチラスがいる場合、その敵を相手のデッキに混ぜる。",
+    "description": "敵1体を<link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>させる。\r\n場に味方の<link=card.champCheck><style=AssociatedCard>ノーチラス</style></link>がいる場合、その敵を相手のデッキに戻す。",
+    "descriptionRaw": "敵1体をスタンさせる。\r\n場に味方のノーチラスがいる場合、その敵を相手のデッキに戻す。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「深みに引きずり込んでやる」\r\n- ノーチラス",
@@ -3568,8 +3568,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW042-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3607,8 +3607,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW059-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3646,8 +3646,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW023.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW023-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW023-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3685,8 +3685,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW031-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3724,8 +3724,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW029-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3763,8 +3763,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW049-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3802,8 +3802,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW001-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3841,8 +3841,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW063.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW063-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW063-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3880,8 +3880,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW045-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3919,8 +3919,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW020-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3958,8 +3958,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW044-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -3997,8 +3997,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02BW062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02BW062-full.png"
       }
     ],
     "region": "ビルジウォーター",
@@ -4036,8 +4036,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR009-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4075,8 +4075,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR004-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4117,8 +4117,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR002-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4156,8 +4156,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR001-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4193,8 +4193,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR005-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4230,8 +4230,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR005T1-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4269,8 +4269,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR010-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4311,8 +4311,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR008-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4349,8 +4349,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR002T1-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4358,8 +4358,8 @@
     "attack": 0,
     "cost": 4,
     "health": 0,
-    "description": "このラウンド中、味方1体に+3|+4を付与する。\r\nデッキに<link=card.level1><style=AssociatedCard>セジュアニ</style></link>を1枚混ぜる。",
-    "descriptionRaw": "このラウンド中、味方1体に+3|+4を付与する。\r\nデッキにセジュアニを1枚混ぜる。",
+    "description": "このラウンド中、味方1体に+3|+4を付与する。\r\nデッキに<link=card.level1><style=AssociatedCard>セジュアニ</style></link>を1枚生成する。",
+    "descriptionRaw": "このラウンド中、味方1体に+3|+4を付与する。\r\nデッキにセジュアニを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「内なる獣を受け入れろ！」\r\n- セジュアニ",
@@ -4391,8 +4391,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR002T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR002T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR002T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR002T3-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4430,8 +4430,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR007-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4469,8 +4469,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR006-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4512,8 +4512,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02FR003-full.png"
       }
     ],
     "region": "フレヨルド",
@@ -4553,8 +4553,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX001-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4595,8 +4595,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX007-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4604,7 +4604,7 @@
     "attack": 3,
     "cost": 5,
     "health": 6,
-    "description": "<link=vocab.Nexus Strike><style=Vocab>ネクサスストライク</style></link>: <br>敵のネクサスに3ダメージを与える。",
+    "description": "<link=vocab.NexusStrike><style=Vocab>ネクサスストライク</style></link>: <br>敵のネクサスに3ダメージを与える。",
     "descriptionRaw": "ネクサスストライク: 敵のネクサスに3ダメージを与える。",
     "levelupDescription": "あなたが合計12以上の<br>非戦闘ダメージを与えた時。<style=Variable></style>",
     "levelupDescriptionRaw": "あなたが合計12以上の非戦闘ダメージを与えた時。",
@@ -4637,8 +4637,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX007T2-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4646,11 +4646,11 @@
     "attack": 4,
     "cost": 5,
     "health": 7,
-    "description": "あなたが敵のネクサスに非戦闘ダメージを与える時、敵後列の<link=vocab.Strongest><style=Vocab>最も強い</style></link>ユニットを<link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>させる。\r\n<link=vocab.Nexus Strike><style=Vocab>ネクサスストライク</style></link>: すべての敵と敵のネクサスに3ダメージを与える。",
+    "description": "あなたが敵のネクサスに非戦闘ダメージを与える時、敵後列の<link=vocab.Strongest><style=Vocab>最も強い</style></link>ユニットを<link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>させる。\r\n<link=vocab.NexusStrike><style=Vocab>ネクサスストライク</style></link>: すべての敵と敵のネクサスに3ダメージを与える。",
     "descriptionRaw": "あなたが敵のネクサスに非戦闘ダメージを与える時、敵後列の最も強いユニットをスタンさせる。\r\nネクサスストライク: すべての敵と敵のネクサスに3ダメージを与える。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「私が予見するノクサスの未来を実現するためならば、いかなる犠牲も厭わぬ」 ",
+    "flavorText": "「私が予見するノクサスの未来を実現するためならば、いかなる犠牲も厭わぬ」",
     "artistName": "SIXMOREVODKA",
     "name": "スウェイン",
     "cardCode": "02NX007T2",
@@ -4679,8 +4679,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX007T1-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4688,8 +4688,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "ダメージを負ったユニットまたは<br><link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>中のユニット1体に<br>4ダメージを与える。\r\nデッキに<link=card.level1><style=AssociatedCard>スウェイン</style></link>を1枚混ぜる。",
-    "descriptionRaw": "ダメージを負ったユニットまたはスタン中のユニット1体に4ダメージを与える。\r\nデッキにスウェインを1枚混ぜる。",
+    "description": "ダメージを負ったユニットまたは<link=keyword.Stun><sprite name=Stunned><style=Keyword>スタン</style></link>中のユニット1体に4ダメージを与える。\r\nデッキに<link=card.level1><style=AssociatedCard>スウェイン</style></link>を1枚生成する。",
+    "descriptionRaw": "ダメージを負ったユニットまたはスタン中のユニット1体に4ダメージを与える。\r\nデッキにスウェインを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "聞くがいい。千の翼が奏でる雷鳴を。",
@@ -4718,8 +4718,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX006-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4753,8 +4753,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX002-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4788,8 +4788,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX009-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4829,8 +4829,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX004-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4864,8 +4864,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX003-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4903,8 +4903,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX010-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4942,8 +4942,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX004T1-full.png"
       }
     ],
     "region": "ノクサス",
@@ -4981,8 +4981,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX008-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5020,8 +5020,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02NX005-full.png"
       }
     ],
     "region": "ノクサス",
@@ -5059,8 +5059,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE003-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5094,8 +5094,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE008-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5133,8 +5133,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE004-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5180,8 +5180,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE006-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5223,8 +5223,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE006T3-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5232,8 +5232,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "<link=card.summon><style=AssociatedCard>ヴァロール</style></link>を召喚する。\r\nデッキに<link=card.level1><style=AssociatedCard>クイン</style></link>を1枚混ぜる。",
-    "descriptionRaw": "ヴァロールを召喚する。\r\nデッキにクインを1枚混ぜる。",
+    "description": "<link=card.summon><style=AssociatedCard>ヴァロール</style></link>を召喚する。\r\nデッキに<link=card.level1><style=AssociatedCard>クイン</style></link>を1枚生成する。",
+    "descriptionRaw": "ヴァロールを召喚する。\r\nデッキにクインを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「髪に絡んできやがった！俺の髪に！」\r\n- レギオンの戦場漁り",
@@ -5262,8 +5262,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE006T2-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5275,7 +5275,7 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "ヴァロールと対面した者はみな、その鋭い目にただならぬ輝きを見て取る。そしてその輝きの中に、凡百の猛禽類をはるかにしのぐ鋭い知性を感じ取るのだ。 ",
+    "flavorText": "ヴァロールと対面した者はみな、その鋭い目にただならぬ輝きを見て取る。そしてその輝きの中に、凡百の猛禽類をはるかにしのぐ鋭い知性を感じ取るのだ。",
     "artistName": "SIXMOREVODKA",
     "name": "ヴァロール",
     "cardCode": "02DE006T2",
@@ -5307,8 +5307,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE006T1-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5348,8 +5348,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE009-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5389,8 +5389,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE005-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5430,8 +5430,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE002-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5469,8 +5469,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE010-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5510,8 +5510,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE007-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5549,8 +5549,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02DE001-full.png"
       }
     ],
     "region": "デマーシア",
@@ -5588,8 +5588,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI005-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5627,8 +5627,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI010-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5670,8 +5670,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI008-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5705,8 +5705,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI008T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI008T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI008T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI008T3-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5750,8 +5750,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI008T1-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5759,8 +5759,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "カードを3枚<link=vocab.Toss><style=Vocab>トス</style></link>する。\r\nすべての味方の体力を3回復する。\r\nデッキに<link=card.level1><style=AssociatedCard>マオカイ</style></link>を1枚混ぜる。",
-    "descriptionRaw": "カードを3枚トスする。\r\nすべての味方の体力を3回復する。\r\nデッキにマオカイを1枚混ぜる。",
+    "description": "カードを3枚<link=vocab.Toss><style=Vocab>トス</style></link>する。\r\nすべての味方の体力を3回復する。\r\nデッキに<link=card.level1><style=AssociatedCard>マオカイ</style></link>を1枚生成する。",
+    "descriptionRaw": "カードを3枚トスする。\r\nすべての味方の体力を3回復する。\r\nデッキにマオカイを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「島を浄化するのだ」\r\n- マオカイ",
@@ -5793,8 +5793,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI008T2-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5832,8 +5832,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI007-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5871,8 +5871,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI003-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5912,8 +5912,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI001-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5957,8 +5957,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI002-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -5994,8 +5994,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI004-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -6029,8 +6029,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI006-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -6066,8 +6066,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02SI009-full.png"
       }
     ],
     "region": "シャドウアイル",
@@ -6107,8 +6107,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO008-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6146,8 +6146,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO008T1-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6189,8 +6189,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO005T1-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6226,8 +6226,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO002-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6263,8 +6263,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO002T1-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6307,8 +6307,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO006-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6350,8 +6350,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO011-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6359,8 +6359,8 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "このラウンド中、味方1体に<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>を付与する。\r\n手札に<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を持つ<link=card.secondSpell><style=AssociatedCard>共鳴撃</style></link>を1枚生成する。\r\nデッキに<link=card.level1><style=AssociatedCard>リー・シン</style></link>を1枚混ぜる。",
-    "descriptionRaw": "このラウンド中、味方1体にチャレンジャーを付与する。\r\n手札にフリーティングを持つ共鳴撃を1枚生成する。\r\nデッキにリー・シンを1枚混ぜる。",
+    "description": "このラウンド中、味方1体に<link=keyword.Challenger><sprite name=Challenger><style=Keyword>チャレンジャー</style></link>を付与する。\r\n<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>フリーティング</style></link>を持つ<link=card.secondSpell><style=AssociatedCard>共鳴撃</style></link>を手札に1枚生成する。\r\nデッキに<link=card.level1><style=AssociatedCard>リー・シン</style></link>を1枚生成する。",
+    "descriptionRaw": "このラウンド中、味方1体にチャレンジャーを付与する。\r\nフリーティングを持つ共鳴撃を手札に1枚生成する。\r\nデッキにリー・シンを1枚生成する。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「敵を知り…」\r\n- リー・シン",
@@ -6394,8 +6394,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO006T1-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6433,8 +6433,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO006T3-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6472,8 +6472,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO004-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6513,8 +6513,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO003-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6552,8 +6552,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO001-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6587,8 +6587,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO003T1-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6632,8 +6632,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO005-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6673,8 +6673,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO010-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6712,8 +6712,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO007-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6751,8 +6751,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO010T1-full.png"
       }
     ],
     "region": "アイオニア",
@@ -6792,8 +6792,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_13_0/set2/ja_jp/img/cards/02IO009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_16_0/set2/ja_jp/img/cards/02IO009-full.png"
       }
     ],
     "region": "アイオニア",
