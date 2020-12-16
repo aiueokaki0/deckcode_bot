@@ -78,6 +78,7 @@ client = discord.Client()
 # 起動時に動作する処理
 @client.event
 async def on_ready():
+	# print(Deck(cards={"03PZ003":2, "03MT009": 2, "03NX007": 2}).to_deck_code())
 	print('[Info][System] start deckcode bot')
 
 # メッセージ受信時に動作する処理

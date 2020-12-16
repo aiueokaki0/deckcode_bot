@@ -15,7 +15,7 @@ except:
 
 class Deck:
 	def __init__(self, **kwargs):
-		self._cards = kwargs.get("CardsInDeck", kwargs.get("cards", []))
+		self._cards = kwargs.get("CardsInDeck", kwargs.get("cards", {}))
 		self.deck_code = kwargs.get("DeckCode", None)
 		self.cards = []
 		self.deck_id = kwargs.get("deck_id", None)
