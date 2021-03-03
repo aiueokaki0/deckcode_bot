@@ -2,7 +2,7 @@
 
 from base64 import b32decode, b32encode
 
-MAX_KNOWN_VERSION = 2
+MAX_KNOWN_VERSION = 3
 
 
 class Base32:
