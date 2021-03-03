@@ -31,7 +31,8 @@ emojis = {
 	"noxus": "<:noxus:748188803201761410>",
 	"piltoverzaun": "<:piltoverzaun:748188812802523170>",
 	"shadowisles": "<:shadowisles:748188823426564147>",
-	"targon": "<:targon:765899819096604673>"
+	"targon": "<:targon:765899819096604673>",
+	"shurima": "<:shurima:816818401875722270>"
 	}
 
 # function
