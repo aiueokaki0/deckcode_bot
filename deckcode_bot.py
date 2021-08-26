@@ -33,6 +33,7 @@ emojis = {
 	"shadowisles": "<:shadowisles:748188823426564147>",
 	"targon": "<:targon:765899819096604673>",
 	"shurima": "<:shurima:816818401875722270>"
+	"bandlecity":"<bandlecity:880260012612661289>"
 	}
 
 # function
@@ -171,9 +172,9 @@ async def on_message(message):
 				embed = discord.Embed(title="Error", description="Wrong deckcode", color=discord.Colour.red())
 				await message.channel.send(embed=embed)
 			except Exception as e:
-			 	print("[Error][diff] " + str(e))
-			 	embed = discord.Embed(title="Error", description="Something wrong", color=discord.Colour.red())
-			 	await message.channel.send(embed=embed)
+				print("[Error][diff] " + str(e))
+				embed = discord.Embed(title="Error", description="Something wrong", color=discord.Colour.red())
+				await message.channel.send(embed=embed)
 
 
 # Botの起動とDiscordサーバーへの接続
