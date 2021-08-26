@@ -33,7 +33,7 @@ emojis = {
 	"shadowisles": "<:shadowisles:748188823426564147>",
 	"targon": "<:targon:765899819096604673>",
 	"shurima": "<:shurima:816818401875722270>",
-	"bandlecity": "<bandlecity:880260012612661289>",
+	"bandlecity": "<:bandlecity:880260012612661289>",
 	}
 
 # function
