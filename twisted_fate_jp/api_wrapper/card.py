@@ -101,7 +101,7 @@ class Card:
 
 	@property
 	def region(self):
-		return self._card_data["regionRef"].lower()
+		return self._card_data["regionRefs"][0].lower()
 
 	@property
 	def spellSpeed(self):
