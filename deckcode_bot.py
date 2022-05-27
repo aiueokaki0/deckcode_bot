@@ -13,9 +13,9 @@ load_dotenv(dotenv_path)
 botToken = os.getenv("BOT_TOKEN")
 # 文末のスペースはdicord側で削除されて送信されるため引数なしのコマンドには反応しない
 callCommands = {
-	"decode": r"/deck\s",
-	"diff": r"/diff\s",
-	"help": r"/help"
+	"decode": r";deck\s",
+	"diff": r";diff\s",
+	"help": r";help"
 }
 deckcode = r"[A-Z0-9]+"
 emojis = {
