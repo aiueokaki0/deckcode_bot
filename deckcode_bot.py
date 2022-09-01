@@ -23,6 +23,7 @@ emojis = {
 	"follower": "<:follower:747822044216950784>",
 	"spell": "<:spell:747822058225795104>",
 	"landmark": "<:landmark:782176960808878100>",
+	"equipment": "<:landmark:782176960808878100>",
 	"runeterra": "<:runeterra:748188732548579338>",
 	"bilgewater": "<:bilgewater:748188752806936646>",
 	"demacia": "<:demacia:748188764001665177>",
@@ -64,7 +65,8 @@ def buildCountsMessage(typedDeck):
 	result = (emojis["champion"] + "x" + str(typedDeck.counts[0]) + " "
 				+ emojis["follower"] + "x" + str(typedDeck.counts[1]) + " "
 				+ emojis["spell"] + "x" + str(typedDeck.counts[2]) + " "
-				+ emojis["landmark"] + "x" + str(typedDeck.counts[3]))
+				+ emojis["landmark"] + "x" + str(typedDeck.counts[3]) + " "
+				+ emojis["equipment"] + "x" + str(typedDeck.counts[4]))
 	return result
 
 def getTempDeckName(typedDeck):
@@ -115,6 +117,9 @@ async def on_message(message):
 				if len(deck.landmarks) > 0:
 					landmarkMessage = emojis["landmark"] + "**ランドマーク**\n" + buildMessage(deck.landmarks)
 					championMessage += landmarkMessage
+				if len(deck.equipments) > 0:
+					equipmentMessage = emojis["equipment"] + "**武具**\n" + buildMessage(deck.equipments)
+					championMessage += equipmentMessage
 				
 				embed.add_field(name=emojis["champion"] + "チャンピオン",value=championMessage)
 				embed.add_field(name=emojis["follower"] + "フォロワー",value=buildMessage(deck.followers))
@@ -159,7 +164,10 @@ async def on_message(message):
 				if len(diffDeck.landmarks) > 0:
 					landmarkMessage = emojis["landmark"] + "**ランドマーク**\n" + buildDiffMessage(diffDeck.landmarks)
 					championMessage += landmarkMessage
-				
+				if len(deck.equipments) > 0:
+					equipmentMessage = emojis["equipment"] + "**武具**\n" + buildDiffMessage(deck.equipments)
+					championMessage += equipmentMessage
+
 				embed.add_field(name=emojis["champion"] + "チャンピオン",value=championMessage)
 				embed.add_field(name=emojis["follower"] + "フォロワー",value=buildDiffMessage(diffDeck.followers))
 				embed.add_field(name=emojis["spell"] + "スペル", value=buildDiffMessage(diffDeck.spells))
