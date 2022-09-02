@@ -134,7 +134,7 @@ async def on_message(message):
 				await message.channel.send(embed=embed)
 			except Exception as e:
 				print("[Error][decode] " + str(e))
-				embed = discord.Embed(title="Error", description="Something wrong", color=discord.Colour.red())
+				embed = discord.Embed(title="Error", description=str(e), color=discord.Colour.red())
 				await message.channel.send(embed=embed)
 
 		# 差分情報を返す
@@ -181,7 +181,7 @@ async def on_message(message):
 				await message.channel.send(embed=embed)
 			except Exception as e:
 				print("[Error][diff] " + str(e))
-				embed = discord.Embed(title="Error", description="Something wrong", color=discord.Colour.red())
+				embed = discord.Embed(title="Error", description=str(e), color=discord.Colour.red())
 				await message.channel.send(embed=embed)
 
 
