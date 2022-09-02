@@ -164,8 +164,8 @@ async def on_message(message):
 				if len(diffDeck.landmarks) > 0:
 					landmarkMessage = emojis["landmark"] + "**ランドマーク**\n" + buildDiffMessage(diffDeck.landmarks)
 					championMessage += landmarkMessage
-				if len(deck.equipments) > 0:
-					equipmentMessage = emojis["equipment"] + "**武具**\n" + buildDiffMessage(deck.equipments)
+				if len(diffDeck.equipments) > 0:
+					equipmentMessage = emojis["equipment"] + "**武具**\n" + buildDiffMessage(diffDeck.equipments)
 					championMessage += equipmentMessage
 
 				embed.add_field(name=emojis["champion"] + "チャンピオン",value=championMessage)
